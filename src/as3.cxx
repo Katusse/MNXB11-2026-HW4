@@ -17,7 +17,7 @@ Apple::Apple(Color color)
     : Fruit("apple", color){}
 
 
-std::string Apple::getTaste() const{
+std::string Apple::getTaste() {
     return "sweet";
 }
 

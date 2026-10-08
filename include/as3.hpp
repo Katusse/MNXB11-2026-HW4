@@ -20,7 +20,7 @@ namespace homework {
 // The taste of an apple is "sweet"
 // The constructor should take a "Color" as argument and pass the name "apple"
 // to the base class constructor
-enum class Color{
+enum Color{
     red,
     green, 
     yellow
